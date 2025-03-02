@@ -1,5 +1,5 @@
 # Widgetify
-![widgetify-banner](https://github.com/user-attachments/assets/29c62992-5048-47f5-be23-f8941b7678d6)
+<img width="809" alt="widgetify-banner-1" src="https://github.com/user-attachments/assets/0ecc4f47-b3d5-4d54-acea-1a3a70e6b727" />
 
 ## 🚀 Overview
 Widgetify is an open-source platform designed to supercharge your desktop and web experience with a diverse collection of powerful and customizable widgets.
